@@ -1,1 +1,2 @@
-# C-exercise_CML_game
+# Command Line Game: Castle
+A little command line game for C++ exercise. The princess in inprisoned by a monster in the castle. You should explore different rooms by commands like 'go east' to rescue the princess while avoid the monster. There might be some interesting things happen in different rooms...
